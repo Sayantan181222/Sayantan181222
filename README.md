@@ -40,4 +40,15 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantan181222&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+
+</div>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayantan181222/sayantan181222/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayantan181222/sayantan181222/output/github-contribution-grid-snake.svg">
+    <img alt="Sayantan's Contribution Grid Snake" src="https://raw.githubusercontent.com/sayantan181222/sayantan181222/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
